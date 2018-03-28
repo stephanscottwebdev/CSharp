@@ -1,0 +1,12 @@
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\bin\StephanScottUnit-2.dll.config
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\bin\StephanScottUnit-2.dll
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\bin\StephanScottUnit-2.pdb
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\obj\Debug\StephanScottUnit-2.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\obj\Debug\StephanScottUnit-2.dll
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\obj\Debug\StephanScottUnit-2.pdb
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\obj\Debug\StephanScottUnit-2.csprojResolveAssemblyReference.cache
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\bin\HtmlAgilityPack.dll
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\bin\HtmlAgilityPack.pdb
+C:\Users\steph\source\repos\StephanScottUnit-2\StephanScottUnit-2\bin\HtmlAgilityPack.xml

@@ -1,0 +1,11 @@
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\bin\Debug\Scott.mdf
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\bin\Debug\Scott_log.ldf
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\bin\Debug\Scott-Week11-ListDB.exe.config
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\bin\Debug\Scott-Week11-ListDB.exe
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\bin\Debug\Scott-Week11-ListDB.pdb
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\obj\Debug\Scott_Week11_ListDB.Form1.resources
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\obj\Debug\Scott_Week11_ListDB.Properties.Resources.resources
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\obj\Debug\Scott-Week11-ListDB.csproj.GenerateResource.Cache
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\obj\Debug\Scott-Week11-ListDB.csproj.CoreCompileInputs.cache
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\obj\Debug\Scott-Week11-ListDB.exe
+c:\users\steph\source\repos\Scott-Week11-ListDB\Scott-Week11-ListDB\obj\Debug\Scott-Week11-ListDB.pdb

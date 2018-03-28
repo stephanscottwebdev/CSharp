@@ -1,0 +1,10 @@
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\bin\StephanScottUnit1.dll.config
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\bin\StephanScottUnit1.dll
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\bin\StephanScottUnit1.pdb
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\obj\Debug\StephanScottUnit1.csprojResolveAssemblyReference.cache
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\obj\Debug\StephanScottUnit1.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\obj\Debug\StephanScottUnit1.dll
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\obj\Debug\StephanScottUnit1.pdb
+C:\Users\steph\source\repos\StephanScottUnit1\StephanScottUnit1\bin\AspNet.ScriptManager.jQuery.dll

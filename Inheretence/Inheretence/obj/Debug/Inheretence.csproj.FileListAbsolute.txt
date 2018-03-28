@@ -1,0 +1,10 @@
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\bin\Debug\Inheretence.exe.config
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\bin\Debug\Inheretence.exe
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\bin\Debug\Inheretence.pdb
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\obj\Debug\Inheretence.csprojResolveAssemblyReference.cache
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\obj\Debug\Inheretence.Form1.resources
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\obj\Debug\Inheretence.Properties.Resources.resources
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\obj\Debug\Inheretence.csproj.GenerateResource.Cache
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\obj\Debug\Inheretence.csproj.CoreCompileInputs.cache
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\obj\Debug\Inheretence.exe
+C:\Users\sjscott1\source\repos\Inheretence\Inheretence\obj\Debug\Inheretence.pdb

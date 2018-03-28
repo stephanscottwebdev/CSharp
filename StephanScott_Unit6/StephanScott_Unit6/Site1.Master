@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="StephanScott_Unit6.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server" id="Title">
+    <link rel="stylesheet" type="text/css" href="Css/Style.css" />
+    <asp:ContentPlaceHolder ID="headPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>
+    <title>Reservation</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id="Content">
+    <section>
+
+        <asp:ContentPlaceHolder ID="formPlaceHolder" runat="server">
+            <p>PlaceHolder</p>
+        </asp:ContentPlaceHolder>
+    </section>
+</body>
+</html>
+<section id="Footer">
+    <footer>
+        <div>
+            <div style="text-align: center" />
+            <p>© 2014 Royal Inns and Suites</p>
+        </div>
+    </footer>
+</section>

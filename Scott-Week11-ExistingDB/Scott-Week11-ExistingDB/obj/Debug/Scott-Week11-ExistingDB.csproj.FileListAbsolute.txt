@@ -1,0 +1,12 @@
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\bin\Debug\Scott.mdf
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\bin\Debug\Scott_log.ldf
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\bin\Debug\Scott-Week11-ExistingDB.exe.config
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\bin\Debug\Scott-Week11-ExistingDB.exe
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\bin\Debug\Scott-Week11-ExistingDB.pdb
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\obj\Debug\Scott-Week11-ExistingDB.csprojResolveAssemblyReference.cache
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\obj\Debug\Scott_Week11_ExistingDB.Form1.resources
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\obj\Debug\Scott_Week11_ExistingDB.Properties.Resources.resources
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\obj\Debug\Scott-Week11-ExistingDB.csproj.GenerateResource.Cache
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\obj\Debug\Scott-Week11-ExistingDB.csproj.CoreCompileInputs.cache
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\obj\Debug\Scott-Week11-ExistingDB.exe
+c:\users\steph\source\repos\Scott-Week11-ExistingDB\Scott-Week11-ExistingDB\obj\Debug\Scott-Week11-ExistingDB.pdb

@@ -1,0 +1,9 @@
+C:\Users\steph\source\repos\StephanScottUnit_4\StephanScottUnit_4\bin\StephanScottUnit_4.dll.config
+C:\Users\steph\source\repos\StephanScottUnit_4\StephanScottUnit_4\bin\StephanScottUnit_4.dll
+C:\Users\steph\source\repos\StephanScottUnit_4\StephanScottUnit_4\bin\StephanScottUnit_4.pdb
+C:\Users\steph\source\repos\StephanScottUnit_4\StephanScottUnit_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\steph\source\repos\StephanScottUnit_4\StephanScottUnit_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\steph\source\repos\StephanScottUnit_4\StephanScottUnit_4\obj\Debug\StephanScottUnit_4.csprojResolveAssemblyReference.cache
+C:\Users\steph\source\repos\StephanScottUnit_4\StephanScottUnit_4\obj\Debug\StephanScottUnit_4.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\StephanScottUnit_4\StephanScottUnit_4\obj\Debug\StephanScottUnit_4.dll
+C:\Users\steph\source\repos\StephanScottUnit_4\StephanScottUnit_4\obj\Debug\StephanScottUnit_4.pdb

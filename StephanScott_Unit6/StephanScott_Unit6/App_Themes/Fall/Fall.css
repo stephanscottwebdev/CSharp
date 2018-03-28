@@ -1,0 +1,37 @@
+﻿body {
+}
+
+h1 {
+	color: darkred;
+}
+
+h2 {
+	color: forestgreen;
+}
+
+#tag {
+	color: darkgreen;
+	font-size: larger;
+}
+
+#Title {
+	border-style: solid;
+	border-width: thin;
+	border-color: darkred;
+}
+
+#Content {
+	border-style: solid;
+	border-width: thin;
+	border-color: darkred;
+}
+
+#Footer {
+	border-style: solid;
+	border-width: thin;
+	border-color: darkred;
+}
+
+.label {
+	font-weight: bold;
+}

@@ -1,0 +1,11 @@
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\bin\Debug\Scott.mdf
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\bin\Debug\Scott_log.ldf
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\bin\Debug\Scott-Week11-SQL.exe.config
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\bin\Debug\Scott-Week11-SQL.exe
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\bin\Debug\Scott-Week11-SQL.pdb
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\obj\Debug\Scott_Week11_SQL.Properties.Resources.resources
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\obj\Debug\Scott-Week11-SQL.csproj.GenerateResource.Cache
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\obj\Debug\Scott-Week11-SQL.csproj.CoreCompileInputs.cache
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\obj\Debug\Scott-Week11-SQL.exe
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\obj\Debug\Scott-Week11-SQL.pdb
+c:\users\steph\source\repos\Scott-Week11-SQL\Scott-Week11-SQL\obj\Debug\Scott_Week11_SQL.Form1.resources

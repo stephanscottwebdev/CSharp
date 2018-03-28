@@ -1,0 +1,10 @@
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\bin\Debug\Scott-Week7-Project8.exe.config
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\bin\Debug\Scott-Week7-Project8.exe
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\bin\Debug\Scott-Week7-Project8.pdb
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\obj\Debug\Scott-Week7-Project8.csprojResolveAssemblyReference.cache
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\obj\Debug\Scott_Week7_Project8.Form1.resources
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\obj\Debug\Scott_Week7_Project8.Properties.Resources.resources
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\obj\Debug\Scott-Week7-Project8.csproj.GenerateResource.Cache
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\obj\Debug\Scott-Week7-Project8.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\obj\Debug\Scott-Week7-Project8.exe
+C:\Users\steph\source\repos\Scott-Week7-Project8\Scott-Week7-Project8\obj\Debug\Scott-Week7-Project8.pdb

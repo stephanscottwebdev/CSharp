@@ -1,0 +1,10 @@
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\obj\Debug\Scott-Week4-ProProb1.csprojResolveAssemblyReference.cache
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\obj\Debug\Scott_Week4_ProProb1.Form1.resources
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\obj\Debug\Scott_Week4_ProProb1.Properties.Resources.resources
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\obj\Debug\Scott-Week4-ProProb1.csproj.GenerateResource.Cache
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\obj\Debug\Scott-Week4-ProProb1.csproj.CoreCompileInputs.cache
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\bin\Debug\Scott-Week4-ProProb1.exe.config
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\bin\Debug\Scott-Week4-ProProb1.exe
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\bin\Debug\Scott-Week4-ProProb1.pdb
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\obj\Debug\Scott-Week4-ProProb1.exe
+c:\users\steph\source\repos\Scott-Week4-ProProb1\Scott-Week4-ProProb1\obj\Debug\Scott-Week4-ProProb1.pdb

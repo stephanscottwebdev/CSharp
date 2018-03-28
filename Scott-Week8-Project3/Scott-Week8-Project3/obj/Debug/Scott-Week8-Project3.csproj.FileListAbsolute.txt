@@ -1,0 +1,9 @@
+C:\Users\steph\source\repos\Scott-Week8-Project3\Scott-Week8-Project3\bin\Debug\Scott-Week8-Project3.exe.config
+C:\Users\steph\source\repos\Scott-Week8-Project3\Scott-Week8-Project3\bin\Debug\Scott-Week8-Project3.exe
+C:\Users\steph\source\repos\Scott-Week8-Project3\Scott-Week8-Project3\bin\Debug\Scott-Week8-Project3.pdb
+C:\Users\steph\source\repos\Scott-Week8-Project3\Scott-Week8-Project3\obj\Debug\Scott_Week8_Project3.Form1.resources
+C:\Users\steph\source\repos\Scott-Week8-Project3\Scott-Week8-Project3\obj\Debug\Scott_Week8_Project3.Properties.Resources.resources
+C:\Users\steph\source\repos\Scott-Week8-Project3\Scott-Week8-Project3\obj\Debug\Scott-Week8-Project3.csproj.GenerateResource.Cache
+C:\Users\steph\source\repos\Scott-Week8-Project3\Scott-Week8-Project3\obj\Debug\Scott-Week8-Project3.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Scott-Week8-Project3\Scott-Week8-Project3\obj\Debug\Scott-Week8-Project3.exe
+C:\Users\steph\source\repos\Scott-Week8-Project3\Scott-Week8-Project3\obj\Debug\Scott-Week8-Project3.pdb

@@ -1,0 +1,9 @@
+C:\Users\steph\source\repos\Scott-Week7-Project6\Scott-Week7-Project6\bin\Debug\Scott-Week7-Project6.exe.config
+C:\Users\steph\source\repos\Scott-Week7-Project6\Scott-Week7-Project6\bin\Debug\Scott-Week7-Project6.exe
+C:\Users\steph\source\repos\Scott-Week7-Project6\Scott-Week7-Project6\bin\Debug\Scott-Week7-Project6.pdb
+C:\Users\steph\source\repos\Scott-Week7-Project6\Scott-Week7-Project6\obj\Debug\Scott_Week7_Project6.Form1.resources
+C:\Users\steph\source\repos\Scott-Week7-Project6\Scott-Week7-Project6\obj\Debug\Scott_Week7_Project6.Properties.Resources.resources
+C:\Users\steph\source\repos\Scott-Week7-Project6\Scott-Week7-Project6\obj\Debug\Scott-Week7-Project6.csproj.GenerateResource.Cache
+C:\Users\steph\source\repos\Scott-Week7-Project6\Scott-Week7-Project6\obj\Debug\Scott-Week7-Project6.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Scott-Week7-Project6\Scott-Week7-Project6\obj\Debug\Scott-Week7-Project6.exe
+C:\Users\steph\source\repos\Scott-Week7-Project6\Scott-Week7-Project6\obj\Debug\Scott-Week7-Project6.pdb

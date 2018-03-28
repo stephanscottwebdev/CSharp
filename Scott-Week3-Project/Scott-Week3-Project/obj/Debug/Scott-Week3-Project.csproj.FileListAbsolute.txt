@@ -1,0 +1,7 @@
+C:\Users\steph\source\repos\Scott-Week3-Project\Scott-Week3-Project\bin\Debug\Scott-Week3-Project.exe.config
+C:\Users\steph\source\repos\Scott-Week3-Project\Scott-Week3-Project\bin\Debug\Scott-Week3-Project.exe
+C:\Users\steph\source\repos\Scott-Week3-Project\Scott-Week3-Project\bin\Debug\Scott-Week3-Project.pdb
+C:\Users\steph\source\repos\Scott-Week3-Project\Scott-Week3-Project\obj\Debug\Scott-Week3-Project.csprojResolveAssemblyReference.cache
+C:\Users\steph\source\repos\Scott-Week3-Project\Scott-Week3-Project\obj\Debug\Scott-Week3-Project.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Scott-Week3-Project\Scott-Week3-Project\obj\Debug\Scott-Week3-Project.exe
+C:\Users\steph\source\repos\Scott-Week3-Project\Scott-Week3-Project\obj\Debug\Scott-Week3-Project.pdb
